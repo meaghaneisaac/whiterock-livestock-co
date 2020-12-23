@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+
+    
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Assignment 3: Meaghan Isaac</title>
+        <link rel="stylesheet" href="styles.css">
+        <link rel="icon" type="image/png" href="images/iconme.png">
+    </head>
+    
+    <body>
+        
+        <div class="header">
+            <img src="images/pfp.png" alt="Mirror Selfie of Me" width=91px; height=auto; id="photo">
+            <h1 id="headname">Meaghan Isaac</h1>
+            <a href="https://www.instagram.com/meaghan.isaac/" target="_blank" class="insta">
+            <input type="image" src="images/instagram-logo.svg" width=30px height=auto></a>
+        </div>
+        
+        <div class="nav">
+            <ul>
+                <li> <a href="index.html">Home</a> </li>
+                <li> <a href="travel.html">Travel</a> </li>
+                <li> <a href="photography.html">Photography</a> </li>
+                <li> <a href="contact.html">Contact</a> </li>
+            </ul>
+        </div>
+        
+        <div>
+            <h1>Home</h1>
+            <h2>About Me</h2>
+            
+            <div id="aboutphotos">
+                <div id="photos">
+                    <img src="images/europeme.PNG" alt="Me and my older sister hugging when we were kids" width=auto; height=200;>
+                </div>
+                <div id="photos">
+                    <img src="images/childme.PNG" alt="Me and my older sister hugging when we were kids" width=auto; height=200px;>
+                </div>
+                <div id="photos">
+                    <img src="images/christmasme.PNG" alt="Me and my older sister hugging when we were kids" width=auto; height=200px;>
+                </div>
+            </div>
+            
+            <p><i>Hi! My name is Meaghan Isaac.</i> I just turned 19 at the beginning of November, and I am finishing my 2A term at the University of Waterloo. I am majoring in Global Business and Digital Arts, and I am working towards a minor in International Trade. I grew up in Central Ontario, near Blue Mountain. Being so close to the water means that we get much colder weather than in Waterloo, so all my friends from school joke that I must be from the Yukon. I live on a farm, we raise sheep and chickens, and my dad grows crops as well. My favourite time of the year is November/December, and my favourite holiday is Christmas. The picture on the far-right is from the Toronto Christmas Market last year. I also like to <strong><a href="travel.html" id="pagelink">travel</a></strong>, the photo on the far-left is me in Berlin. I love all forms of graphic design, but making this website may have been my favourite project this term. Check out the other tabs for more content!</p>
+        </div> 
+        
+        <div class="footer">
+            *All photos belong to me.*
+        </div>
+        
+    </body>
+
+
+</html>
